@@ -1,10 +1,7 @@
 # cprogramming lab
 c programming
 
-
-##functions
-
-##pointers
-
-##data types
+## functions
+## pointers
+## data types
 
