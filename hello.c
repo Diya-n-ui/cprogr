@@ -2,5 +2,5 @@
 
 void main()
 {
-  printf("\n hello world");//print statemenvht
+  printf("\n hello world");//print statement
 }
